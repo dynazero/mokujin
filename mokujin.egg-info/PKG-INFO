@@ -4,6 +4,7 @@ Version: 2.0
 Summary: frame data bot for our discord channel
 Home-page: https://github.com/dynazero/mokujin
 Author: dynazero
+Author-email: garcia.jimmyj@gmail.com
 License: UNKNOWN
 Description: # Mokujin
         
@@ -36,7 +37,7 @@ Description: # Mokujin
         ```
         
 Platform: UNKNOWN
-Classifier: Programmming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Requires-Python: >=3.6

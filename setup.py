@@ -5,9 +5,9 @@ with open("README.md", "r") as fh:
 
     setuptools.setup(
         name="mokujin",
-        version="v2.0",
+        version="2.0",
         author="dynazero",
-        author_emal="garcia.jimmyj@gmail.com",
+        author_email="garcia.jimmyj@gmail.com",
         description="frame data bot for our discord channel",
         long_description=long_description,
         long_description_content_type="text/markdown",
