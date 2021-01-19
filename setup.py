@@ -14,7 +14,7 @@ with open("README.md", "r") as fh:
         url="https://github.com/dynazero/mokujin",
         packages=setuptools.find_packages(),
         classifiers=[
-            "Programmming Language :: Python :: 3",
+            "Programming Language :: Python :: 3",
             "License :: OSI Approved :: MIT License",
             "Operating System :: OS Independent",
             ],
