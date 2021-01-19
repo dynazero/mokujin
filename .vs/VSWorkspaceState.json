@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows",
+    "\\build",
+    "\\build\\lib",
+    "\\build\\lib\\src",
+    "\\build\\lib\\src\\test",
     "\\src",
     "\\src\\resources"
   ],
-  "SelectedNode": "\\src\\resources\\schema.json",
   "PreviewInSolutionExplorer": false
 }
