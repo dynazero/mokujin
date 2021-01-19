@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.github",
+    "\\.github\\workflows",
+    "\\src",
+    "\\src\\resources"
+  ],
+  "SelectedNode": "\\src\\resources\\schema.json",
+  "PreviewInSolutionExplorer": false
+}
