@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\src",
-    "\\src\\resources"
+    "\\src"
   ],
-  "SelectedNode": "\\src\\resources\\config.json",
+  "SelectedNode": "\\src\\Procfile",
   "PreviewInSolutionExplorer": false
 }
